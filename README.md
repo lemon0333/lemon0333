@@ -14,6 +14,8 @@
 
 ### Careers
 - 에픽카 주식회사 (2026.03 ~ ) https://www.eficar.co.kr/
+-- AWS 비용 최적화 (2026.03 ~)
+  사내 Text2SQL 구현 (2026.03~ )
 
 
 ### Experiences
