@@ -15,7 +15,7 @@
 ### Certifications
 - 제 58회 SQLD
 - TOPCIT 625점 (level 3)
-- AWS SAA C03 Assocaite https://www.credly.com/badges/97e4dc51-d8ab-4d7b-8869-c5e2095b38aa/public_url
+- **[AWS SAA C03 Assocaite](https://www.credly.com/badges/97e4dc51-d8ab-4d7b-8869-c5e2095b38aa/public_url)**
 
 ### Careers
 - **에픽카 주식회사** (2026.03 ~ ) https://www.eficar.co.kr/
@@ -38,8 +38,8 @@
 - 주식 시장 간편 뉴스
 
 ### Awards 
-**[UMC 7기 데모데이 우수상](https://github.com/UMC-Archive)** (2025.02)
-**AI NoCode MCP Hackathon Season 2 최우수상 (한국지능정보사회진흥원 원장상)** (2025.11) 
+* **[UMC 7기 데모데이 우수상](https://github.com/UMC-Archive)** (2025.02)
+* **AI NoCode MCP Hackathon Season 2 최우수상 (한국지능정보사회진흥원 원장상)** (2025.11) 
 
 
 ---
