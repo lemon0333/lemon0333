@@ -18,7 +18,7 @@
 - **[AWS SAA C03 Assocaite](https://www.credly.com/badges/97e4dc51-d8ab-4d7b-8869-c5e2095b38aa/public_url)**
 
 ### Careers
-- **에픽카 주식회사** (2026.03 ~ ) https://www.eficar.co.kr/
+- **[에픽카 주식회사](https://www.eficar.co.kr/)** (2026.03 ~ )
   - AWS 비용 최적화 (2026.03 ~)
   - 사내 Text2SQL 구현 (2026.03~ )
 
