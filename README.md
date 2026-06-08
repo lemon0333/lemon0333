@@ -16,6 +16,7 @@
 - 제 58회 SQLD
 - TOPCIT 625점 (level 3)
 - **[AWS SAA C03 Assocaite](https://www.credly.com/badges/97e4dc51-d8ab-4d7b-8869-c5e2095b38aa/public_url)**
+- **[AWS AIF C01 Foundational](https://www.credly.com/badges/bb1a1e91-39f5-40a3-9057-32fb0790fd07/public_url)**
 
 ### Careers
 - **[에픽카 주식회사](https://www.eficar.co.kr/)** (2026.03 ~ )
