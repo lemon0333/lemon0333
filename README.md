@@ -19,9 +19,10 @@
 - **[AWS AIF C01 Foundational](https://www.credly.com/badges/bb1a1e91-39f5-40a3-9057-32fb0790fd07/public_url)**
 
 ### Careers
-- **[에픽카 주식회사](https://www.eficar.co.kr/)** (2026.03 ~ )
-  - AWS 비용 최적화 (2026.03 ~)
-  - 사내 Text2SQL 구현 (2026.03~ )
+- **[에픽카 주식회사](https://www.eficar.co.kr/)** Software Engineer Intern (2026.03 ~ 2026.06)
+  - AWS 비용 최적화 및 관리 
+  - 사내 Text2SQL 구현 
+  - Agent 개발 
 
 ## Activities
 
