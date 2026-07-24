@@ -37,6 +37,13 @@
 | **2025.03 ~ 2025.11** | **구름톤 유니브 4기** | **B.E Spring 파트** <br> • 백엔드 개발 및 교내 운영진 활동 |
 | **2025.03 ~ 2025.11** | **ACC (AWS Cloud Club) 3기** | **Member** <br> • AWS 클라우드 기술 학습 및 프로젝트 진행 |
 | **2024.09 ~ 2025.02** | **UMC 7기** | **F.E Swift 수료** <br> • iOS(Swift) 기반 프론트엔드 개발 |
+
+### ✨ Open Source Contribution (only merged or approved)
+
+| Organization | PR/Issue No. | Contributions | Type |
+|:--- |:--- |:--- |:--- |
+| yorkie-team | [yorkie-team/yorkie #1879](https://github.com/yorkie-team/yorkie/pull/1879) | Set updated_at on project creation | Bugfix |
+
 ### Side Projects 
 - 주식 시장 간편 뉴스
 
