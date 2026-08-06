@@ -44,6 +44,7 @@
 |:--- |:--- |:--- |:--- |
 | yorkie-team | [yorkie-team/yorkie #1879](https://github.com/yorkie-team/yorkie/pull/1879) | Set updated_at on project creation | Bugfix |
 | yorkie-team | [yorkie-team/yorkie #1883](https://github.com/yorkie-team/yorkie/pull/1883) | Adopt testing/synctest for deterministic timing tests | Test |
+| yorkie-team | [yorkie-team/yorkie #1912](https://github.com/yorkie-team/yorkie/pull/1912) | Add fuzz coverage for JSON object/array decoding (+ nil-panic guards) | Test |
 
 ### Side Projects 
 - 주식 시장 간편 뉴스
