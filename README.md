@@ -48,6 +48,7 @@
 | yorkie-team | [yorkie-team/yorkie #1920](https://github.com/yorkie-team/yorkie/pull/1920) | Add fuzz coverage for tree/snapshot decoding (+ nil-panic guards) | Test |
 | yorkie-team | [yorkie-team/yorkie #1923](https://github.com/yorkie-team/yorkie/pull/1923) | Add fuzz coverage for VersionVector/ActorID/ParseKeyPath decoders | Test |
 | argoproj | [argoproj/argo-helm #3982](https://github.com/argoproj/argo-helm/pull/3982) | Add server.sso.rootCA to argo-workflows chart for custom OIDC CA | Feature |
+| aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
 
 ### Side Projects 
 - 주식 시장 간편 뉴스
