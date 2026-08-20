@@ -50,6 +50,9 @@
 | argoproj | [argoproj/argo-helm #3982](https://github.com/argoproj/argo-helm/pull/3982) | Add server.sso.rootCA to argo-workflows chart for custom OIDC CA | Feature |
 | aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
 | aws | [aws/aws-cdk-cli #1844](https://github.com/aws/aws-cdk-cli/pull/1844) | Reject non-numeric ids in `cdk acknowledge` (prevents cdk.context.json corruption) | Bugfix |
+| aws | [aws/aws-cdk-cli #1740](https://github.com/aws/aws-cdk-cli/pull/1740) | Support notification-arns in `cdk import` | Feature |
+| aws | [aws/aws-cdk-cli #1843](https://github.com/aws/aws-cdk-cli/pull/1843) | Fail fast when `--proxy` has no or an unsupported protocol | Bugfix |
+| aws | [aws/aws-cdk-cli #1828](https://github.com/aws/aws-cdk-cli/pull/1828) | Fail `gc` on ECR tagging permission errors instead of silently continuing | Bugfix |
 
 ### Side Projects 
 - 주식 시장 간편 뉴스
