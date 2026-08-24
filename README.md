@@ -57,6 +57,7 @@
 | aws | [aws/aws-cdk-cli #1740](https://github.com/aws/aws-cdk-cli/pull/1740) | Support notification-arns in `cdk import` | Feature |
 | aws | [aws/aws-cdk-cli #1843](https://github.com/aws/aws-cdk-cli/pull/1843) | Fail fast when `--proxy` has no or an unsupported protocol | Bugfix |
 | aws | [aws/aws-cdk-cli #1828](https://github.com/aws/aws-cdk-cli/pull/1828) | Fail `gc` on ECR tagging permission errors instead of silently continuing | Bugfix |
+| aws | [aws/aws-cdk-cli #1873](https://github.com/aws/aws-cdk-cli/pull/1873) | Fix `gc` `print`/`tag` progress showing `NaN%` and misleading `0 assets` | Bugfix |
 
 ### Side Projects 
 - 주식 시장 간편 뉴스
