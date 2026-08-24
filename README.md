@@ -48,6 +48,9 @@
 | yorkie-team | [yorkie-team/yorkie #1912](https://github.com/yorkie-team/yorkie/pull/1912) | Add fuzz coverage for JSON object/array decoding (+ nil-panic guards) | Test |
 | yorkie-team | [yorkie-team/yorkie #1920](https://github.com/yorkie-team/yorkie/pull/1920) | Add fuzz coverage for tree/snapshot decoding (+ nil-panic guards) | Test |
 | yorkie-team | [yorkie-team/yorkie #1923](https://github.com/yorkie-team/yorkie/pull/1923) | Add fuzz coverage for VersionVector/ActorID/ParseKeyPath decoders | Test |
+| yorkie-team | [yorkie-team/yorkie #1945](https://github.com/yorkie-team/yorkie/pull/1945) | Add fuzz test for `yson.Unmarshal` (fixed 10 panic paths + numeric precision loss) | Test |
+| yorkie-team | [yorkie-team/yorkie #1946](https://github.com/yorkie-team/yorkie/pull/1946) | Add property-based convergence tests for Json.Array | Test |
+| yorkie-team | [yorkie-team/yorkie #1947](https://github.com/yorkie-team/yorkie/pull/1947) | Add RBAC coverage for UpdateProject admin API | Test |
 | argoproj | [argoproj/argo-helm #3982](https://github.com/argoproj/argo-helm/pull/3982) | Add server.sso.rootCA to argo-workflows chart for custom OIDC CA | Feature |
 | aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
 | aws | [aws/aws-cdk-cli #1844](https://github.com/aws/aws-cdk-cli/pull/1844) | Reject non-numeric ids in `cdk acknowledge` (prevents cdk.context.json corruption) | Bugfix |
