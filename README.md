@@ -52,6 +52,7 @@
 | yorkie-team | [yorkie-team/yorkie #1946](https://github.com/yorkie-team/yorkie/pull/1946) | Add property-based convergence tests for Json.Array | Test |
 | yorkie-team | [yorkie-team/yorkie #1947](https://github.com/yorkie-team/yorkie/pull/1947) | Add RBAC coverage for UpdateProject admin API | Test |
 | yorkie-team | [yorkie-team/yorkie #1940](https://github.com/yorkie-team/yorkie/pull/1940) | Add property-based convergence tests for Json.Text | Test |
+| yorkie-team | [yorkie-team/yorkie #1958](https://github.com/yorkie-team/yorkie/pull/1958) | Fix Array concurrent-Move snapshot divergence (found via property test, closes #1948) | Bugfix |
 | yorkie-team | [yorkie-team/yorkie-js-sdk #1326](https://github.com/yorkie-team/yorkie-js-sdk/pull/1326) | Reject integers outside the int64 range (prevents silent wire corruption) | Bugfix |
 | argoproj | [argoproj/argo-helm #3982](https://github.com/argoproj/argo-helm/pull/3982) | Add server.sso.rootCA to argo-workflows chart for custom OIDC CA | Feature |
 | aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
