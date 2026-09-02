@@ -56,6 +56,7 @@
 | yorkie-team | [yorkie-team/yorkie-js-sdk #1326](https://github.com/yorkie-team/yorkie-js-sdk/pull/1326) | Reject integers outside the int64 range (prevents silent wire corruption) | Bugfix |
 | argoproj | [argoproj/argo-helm #3982](https://github.com/argoproj/argo-helm/pull/3982) | Add server.sso.rootCA to argo-workflows chart for custom OIDC CA | Feature |
 | argoproj | [argoproj/argo-helm #4027](https://github.com/argoproj/argo-helm/pull/4027) | Mark argocd-tls-certs-cm volume optional so pods start when configs.tls.create=false | Bugfix |
+| argoproj | [argoproj/argo-helm #4044](https://github.com/argoproj/argo-helm/pull/4044) | Hash only ConfigMap/Secret data in checksum/* annotations so a chart version bump alone no longer restarts all Argo CD pods | Bugfix |
 | aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
 | aws | [aws/aws-cdk-cli #1844](https://github.com/aws/aws-cdk-cli/pull/1844) | Reject non-numeric ids in `cdk acknowledge` (prevents cdk.context.json corruption) | Bugfix |
 | aws | [aws/aws-cdk-cli #1740](https://github.com/aws/aws-cdk-cli/pull/1740) | Support notification-arns in `cdk import` | Feature |
