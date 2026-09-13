@@ -13,6 +13,7 @@
 
 
 ### Certifications
+- Engineer Information Processing (national technical qualification, HRDK Korea)
 - SQLD (SQL Developer, Korea Data Agency)
 - TOPCIT 625 (Level 3)
 - **[AWS SAA C03 Associate](https://www.credly.com/badges/97e4dc51-d8ab-4d7b-8869-c5e2095b38aa/public_url)**
