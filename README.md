@@ -61,6 +61,7 @@
 | argoproj | [argoproj/argo-helm #4044](https://github.com/argoproj/argo-helm/pull/4044) | Hash only ConfigMap/Secret data in checksum/* annotations so a chart version bump alone no longer restarts all Argo CD pods | Bugfix |
 | argoproj | [argoproj/argo-helm #4033](https://github.com/argoproj/argo-helm/pull/4033) | Add VPA startupBoost passthrough across all Argo CD components | Feature |
 | argoproj | [argoproj/argo-helm #3983](https://github.com/argoproj/argo-helm/pull/3983) | Add executor.image.nonroot to use the nonroot argoexec image (argo-workflows) | Feature |
+| argoproj | [argoproj/argo-cd #29465](https://github.com/argoproj/argo-cd/pull/29465) | Show multi-source plugin env/name in the Parameters tab (was blank for spec.sources[i].plugin) | Bugfix |
 | DataDog | [DataDog/terraform-provider-datadog #4186](https://github.com/DataDog/terraform-provider-datadog/pull/4186) | Fix inconsistent datastore result when primary_key_generation_strategy is omitted (Optional+Computed default) | Bugfix |
 | aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
 | aws | [aws/aws-cdk-cli #1844](https://github.com/aws/aws-cdk-cli/pull/1844) | Reject non-numeric ids in `cdk acknowledge` (prevents cdk.context.json corruption) | Bugfix |
