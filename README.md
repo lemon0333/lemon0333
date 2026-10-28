@@ -56,6 +56,10 @@
 | yorkie-team | [yorkie-team/yorkie #1958](https://github.com/yorkie-team/yorkie/pull/1958) | Fix Array concurrent-Move snapshot divergence (found via property test, closes #1948) | Bugfix |
 | yorkie-team | [yorkie-team/yorkie-js-sdk #1326](https://github.com/yorkie-team/yorkie-js-sdk/pull/1326) | Reject integers outside the int64 range (prevents silent wire corruption) | Bugfix |
 | yorkie-team | [yorkie-team/dashboard #309](https://github.com/yorkie-team/dashboard/pull/309) | Enforce read-only project config for non-Owner/Admin members in the settings UI | Feature |
+| yorkie-team | [yorkie-team/yorkie #2109](https://github.com/yorkie-team/yorkie/pull/2109) | Format config errors with Fprintf (literal `%w` in startup errors) and align the project cache TTL flag default with its constant | Bugfix |
+| wafflebase | [wafflebase/wafflebase #1090](https://github.com/wafflebase/wafflebase/pull/1090) | Seed the slide template gallery: 17 themed templates in 5 categories, each with an authoring brief | Feature |
+| wafflebase | [wafflebase/wafflebase #1108](https://github.com/wafflebase/wafflebase/pull/1108) | Preserve slides meta (pxPerPt, slideHeight) through backend I/O so imported decks keep their fonts and aspect ratio | Bugfix |
+| wafflebase | [wafflebase/wafflebase #1110](https://github.com/wafflebase/wafflebase/pull/1110) | Add contain/cover image fit to slides, carried through PPTX export | Feature |
 | argoproj | [argoproj/argo-helm #3982](https://github.com/argoproj/argo-helm/pull/3982) | Add server.sso.rootCA to argo-workflows chart for custom OIDC CA | Feature |
 | argoproj | [argoproj/argo-helm #4027](https://github.com/argoproj/argo-helm/pull/4027) | Mark argocd-tls-certs-cm volume optional so pods start when configs.tls.create=false | Bugfix |
 | argoproj | [argoproj/argo-helm #4044](https://github.com/argoproj/argo-helm/pull/4044) | Hash only ConfigMap/Secret data in checksum/* annotations so a chart version bump alone no longer restarts all Argo CD pods | Bugfix |
@@ -63,6 +67,8 @@
 | argoproj | [argoproj/argo-helm #3983](https://github.com/argoproj/argo-helm/pull/3983) | Add executor.image.nonroot to use the nonroot argoexec image (argo-workflows) | Feature |
 | argoproj | [argoproj/argo-cd #29465](https://github.com/argoproj/argo-cd/pull/29465) | Show multi-source plugin env/name in the Parameters tab (was blank for spec.sources[i].plugin) | Bugfix |
 | DataDog | [DataDog/terraform-provider-datadog #4186](https://github.com/DataDog/terraform-provider-datadog/pull/4186) | Fix inconsistent datastore result when primary_key_generation_strategy is omitted (Optional+Computed default) | Bugfix |
+| DataDog | [DataDog/terraform-provider-datadog #4183](https://github.com/DataDog/terraform-provider-datadog/pull/4183) | Read list_stream clustering_pattern_field_path and group_by back into state | Bugfix |
+| DataDog | [DataDog/dd-trace-go #5288](https://github.com/DataDog/dd-trace-go/pull/5288) | Fall back to status text when an Elasticsearch v6 response body is empty | Bugfix |
 | aws | [aws/aws-cdk-cli #1821](https://github.com/aws/aws-cdk-cli/pull/1821) | Clean up the diff change set when early validation fails | Bugfix |
 | aws | [aws/aws-cdk-cli #1844](https://github.com/aws/aws-cdk-cli/pull/1844) | Reject non-numeric ids in `cdk acknowledge` (prevents cdk.context.json corruption) | Bugfix |
 | aws | [aws/aws-cdk-cli #1740](https://github.com/aws/aws-cdk-cli/pull/1740) | Support notification-arns in `cdk import` | Feature |
